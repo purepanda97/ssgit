@@ -9,4 +9,4 @@
 2020.01.04 17:00 code3 complete feature2 
 # feature3 start
 2020.01.05 12:00 code1
-2020.01.05 17:00 bad code
+2020.01.06 12:00 code2
